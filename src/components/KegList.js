@@ -3,7 +3,12 @@ import Keg from "./Keg";
 
 function KegList() {
   return (
-    <Keg />
+    <Keg
+      name="Stout"
+      brand="New Belgium"
+      price="$ 4.00"
+      abv="8%"
+    />
   );
 }
 
