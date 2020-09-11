@@ -7,6 +7,9 @@
 Website for tracking kegs from a tap.
 
 
+<img src="src/images/TapRoom-Component.Diagram.png" />
+
+
 ## User Stories <a name="userstories"></a>
 
 * As a user, I want to see a list of all available kegs that show name, brand, price and alcoholContent. 
