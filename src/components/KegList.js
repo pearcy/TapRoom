@@ -7,7 +7,13 @@ function KegList() {
       name="Stout"
       brand="New Belgium"
       price="$ 4.00"
-      abv="8%"
+      abv="7%"
+    />
+    <Keg
+      name="Lager"
+      brand="Surly"
+      price="$ 4.00"
+      abv="6%"
     />
   );
 }
