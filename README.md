@@ -7,7 +7,8 @@
 Website for tracking kegs from a tap.
 
 
-<img src="src/images/TapRoom-Component.Diagram.png" />
+<img src="src/images/TapRoom-Component3.png" />
+
 
 
 ## User Stories <a name="userstories"></a>

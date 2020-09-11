@@ -31,6 +31,7 @@ function KegList() {
   return (
     <React.Fragment>
       <hr/>
+      <h2>Keg List</h2>
       {masterKegList.map((keg, index) => 
         <Keg 
         name={keg.name}

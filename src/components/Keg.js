@@ -5,7 +5,6 @@ import PropTypes from 'prop-types';
 function Keg(props) {
   return (
     <React.Fragment>
-       <h1>Keg List </h1>
        <h4>{props.name}</h4>
        <h4>{props.brand}</h4>
        <h4>{props.price}</h4>

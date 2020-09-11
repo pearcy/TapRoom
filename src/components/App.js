@@ -6,10 +6,15 @@ import Footer from "./Footer";
 function App() {
   
   return (
+
     <React.Fragment>
-      <Header />
-      <KegList />
-      <Footer />
+      <div className="max-w-sm rounded overflow-hidden shadow-lg">
+        <div className="px-6 py-4">
+          <Header />
+          <KegList />
+          <Footer />
+        </div>
+      </div>
     </React.Fragment>
   );
 }
