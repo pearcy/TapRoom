@@ -31,7 +31,10 @@ function KegList() {
   return (
     <React.Fragment>
       <hr/>
-      <h2>Keg List</h2>
+      <p className="text-gray-700 text-base">
+      Keg List
+      </p>
+      
       {masterKegList.map((keg, index) => 
         <Keg 
         name={keg.name}

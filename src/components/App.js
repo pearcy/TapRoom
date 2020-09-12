@@ -8,7 +8,7 @@ function App() {
   return (
 
     <React.Fragment>
-      <div className="max-w-sm rounded overflow-hidden shadow-lg">
+      <div className="max-w-sm w-full lg:max-w-full lg:flex">
         <div className="px-6 py-4">
           <Header />
           <KegList />
@@ -20,5 +20,9 @@ function App() {
 }
 
 export default App;
+
+// rounded overflow-hidden shadow-lg"
+
+
 
 
